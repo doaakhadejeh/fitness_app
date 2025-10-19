@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "fitnessapp",
     "short_name": "fitnessapp",
+=======
+    "name": "dent_my_flutter",
+    "short_name": "dent_my_flutter",
+>>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

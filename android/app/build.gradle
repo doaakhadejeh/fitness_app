@@ -23,7 +23,11 @@ if (flutterVersionName == null) {
 }
 
 android {
+<<<<<<< HEAD
     namespace "com.example.fitnessapp"
+=======
+    namespace "com.example.dent_my_flutter"
+>>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
     compileSdkVersion 34
     ndkVersion flutter.ndkVersion
 
@@ -42,7 +46,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId "com.example.fitnessapp"
+=======
+        applicationId "com.example.dent_my_flutter"
+>>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdkVersion 21
@@ -58,7 +66,10 @@ android {
             // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig signingConfigs.debug
         }
+<<<<<<< HEAD
     
+=======
+>>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
     }
 }
 

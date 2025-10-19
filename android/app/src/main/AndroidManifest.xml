@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<<<<<<< HEAD
         <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
@@ -6,6 +7,12 @@
         android:name="androidx.multidex.MultiDexApplication"
         android:icon="@mipmap/launcher_icon"
         android:usesCleartextTraffic="true">
+=======
+    <application
+        android:label="dent_my_flutter"
+        android:name="androidx.multidex.MultiDexApplication"
+        android:icon="@mipmap/ic_launcher">
+>>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
         <activity
             android:name=".MainActivity"
             android:exported="true"
