@@ -41,3 +41,30 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# iOS extra
+ios/Pods/
+ios/Flutter/ephemeral/
+ios/DerivedData/
+ios/Runner.xcworkspace/
+
+# Android extra
+android/.gradle/
+android/local.properties
+android/.idea/
+
+# VSCode
+.vscode/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Large media 
+# *.mp4
+# *.mov
+# *.zip
+# *.rar
+# *.exe
+
