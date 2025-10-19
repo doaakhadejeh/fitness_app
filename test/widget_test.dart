@@ -8,11 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-<<<<<<< HEAD
 import 'package:fitnessapp/main.dart';
-=======
-import 'package:dent_my_flutter/main.dart';
->>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
