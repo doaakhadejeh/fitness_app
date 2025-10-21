@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 name: fitnessapp
-=======
-name: dent_my_flutter
->>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -39,7 +35,6 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-<<<<<<< HEAD
   get: ^4.6.6
   jiffy: ^6.2.1
   intl: ^0.18.1
@@ -80,24 +75,6 @@ dependencies:
 
 dev_dependencies:
   flutter_launcher_icons: "^0.13.1"
-=======
-  flutter_bloc: ^9.1.1
-  equatable: ^2.0.7
-  freezed: ^2.5.2
-  freezed_annotation: ^2.4.4
-  get_it: ^8.2.0
-  json_serializable: ^6.8.0
-  json_annotation: ^4.9.0
-  dio: ^5.9.0
-  intl: ^0.18.1
-  retrofit: ^4.5.0
-  retrofit_generator: ^8.2.1
-  pretty_dio_logger: ^1.4.0
-  easy_localization: ^3.0.0
-  flutter_native_splash: ^2.3.11
-
-dev_dependencies:
->>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
   flutter_test:
     sdk: flutter
 
@@ -108,15 +85,12 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
 
-<<<<<<< HEAD
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
   image_path: "asset/images/iconfitness4.png"
   min_sdk_android: 21
 
-=======
->>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -129,14 +103,9 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-<<<<<<< HEAD
   assets:
     - asset/images/
     - asset/lotti/
-=======
-  # assets:
-  #   - images/a_dot_burr.jpeg
->>>>>>> dc1c4777af0363100d78f0efb1855b53feda1964
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
