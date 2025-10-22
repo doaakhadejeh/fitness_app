@@ -42,8 +42,11 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-
+macos/
+web/
+Windows/
 # iOS extra
+ios/
 ios/Pods/
 ios/Flutter/ephemeral/
 ios/DerivedData/
