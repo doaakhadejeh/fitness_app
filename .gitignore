@@ -61,6 +61,17 @@ android/.idea/
 .DS_Store
 Thumbs.db
 
+# 1. macOS / Xcode extra
+ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+ios/Runner.xcworkspace/xcuserdata/
+
+# 2. Android Studio / Gradle Caches
+/android/build/
+/android/captures/
+
+# 3. Flutter Packages & Dependencies
+.pub-cache/
+
 # Large media 
 # *.mp4
 # *.mov
